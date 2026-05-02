@@ -1,2 +1,0 @@
-add-migration init -Context Rent2Own_DataAccess.DBHelper
-update-database -Context Rent2Own_DataAccess.DBHelper

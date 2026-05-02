@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\Rent2Own_API.props" />
-</Project>

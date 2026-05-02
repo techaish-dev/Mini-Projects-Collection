@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mini Projects Collection | Tech Aish</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 40px 20px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        header {
+            text-align: center;
+            color: white;
+            margin-bottom: 50px;
+        }
+
+        h1 {
+            font-size: 3rem;
+            margin-bottom: 10px;
+        }
+
+        .subtitle {
+            font-size: 1.2rem;
+            opacity: 0.9;
+        }
+
+        .projects-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+            gap: 30px;
+        }
+
+        .project-card {
+            background: white;
+            border-radius: 20px;
+            overflow: hidden;
+            transition: transform 0.3s, box-shadow 0.3s;
+            cursor: pointer;
+            text-decoration: none;
+            color: inherit;
+            display: block;
+        }
+
+        .project-card:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 20px 40px rgba(0,0,0,0.2);
+        }
+
+        .project-icon {
+            height: 150px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 64px;
+        }
+
+        .project-info {
+            padding: 25px;
+        }
+
+        .project-title {
+            font-size: 1.5rem;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+
+        .project-desc {
+            color: #666;
+            margin-bottom: 15px;
+            line-height: 1.6;
+        }
+
+        .tech-tags {
+            display: flex;
+            gap: 8px;
+            flex-wrap: wrap;
+            margin-bottom: 20px;
+        }
+
+        .tag {
+            background: #f0f0f0;
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 0.8rem;
+        }
+
+        .btn {
+            display: inline-block;
+            padding: 10px 20px;
+            background: #667eea;
+            color: white;
+            border-radius: 10px;
+            text-decoration: none;
+            font-weight: 500;
+            transition: background 0.3s;
+        }
+
+        .btn:hover {
+            background: #5a67d8;
+        }
+
+        footer {
+            text-align: center;
+            margin-top: 60px;
+            padding-top: 30px;
+            color: white;
+            opacity: 0.8;
+        }
+
+        @media (max-width: 768px) {
+            h1 { font-size: 2rem; }
+            .projects-grid { grid-template-columns: 1fr; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🚀 Mini Projects Collection</h1>
+            <p class="subtitle">A curated collection of small, focused projects by Tech Aish</p>
+        </header>
+
+        <div class="projects-grid">
+            <!-- ReWear Project -->
+            <a href="projects/rewear/index.html" class="project-card">
+                <div class="project-icon" style="background: linear-gradient(135deg, #10b981, #059669);">
+                    🔄
+                </div>
+                <div class="project-info">
+                    <h3 class="project-title">ReWear - Circular Fashion</h3>
+                    <p class="project-desc">Rent, resell, and recycle fashion items. A complete marketplace for sustainable fashion.</p>
+                    <div class="tech-tags">
+                        <span class="tag">HTML5</span>
+                        <span class="tag">CSS3</span>
+                        <span class="tag">JavaScript</span>
+                    </div>
+                    <span class="btn">View Project →</span>
+                </div>
+            </a>
+
+            <!-- DNS Decoder Project -->
+            <a href="projects/dns-packet-decoder/" class="project-card">
+                <div class="project-icon" style="background: linear-gradient(135deg, #6366f1, #4f46e5);">
+                    📡
+                </div>
+                <div class="project-info">
+                    <h3 class="project-title">DNS Packet Decoder</h3>
+                    <p class="project-desc">Decode base64-encoded commands from DNS packets. Network security analysis tool.</p>
+                    <div class="tech-tags">
+                        <span class="tag">Python</span>
+                        <span class="tag">Scapy</span>
+                        <span class="tag">Security</span>
+                    </div>
+                    <span class="btn">View Project →</span>
+                </div>
+            </a>
+
+            <!-- Coming Soon -->
+            <div class="project-card" style="opacity: 0.7;">
+                <div class="project-icon" style="background: linear-gradient(135deg, #f59e0b, #d97706);">
+                    🏗️
+                </div>
+                <div class="project-info">
+                    <h3 class="project-title">More Coming Soon</h3>
+                    <p class="project-desc">More exciting mini-projects will be added here. Stay tuned!</p>
+                    <div class="tech-tags">
+                        <span class="tag">Coming</span>
+                        <span class="tag">Soon</span>
+                    </div>
+                    <span class="btn" style="background: #999;">In Progress</span>
+                </div>
+            </div>
+        </div>
+
+        <footer>
+            <p>Built with ❤️ by Tech Aish | © 2024 Mini Projects Collection</p>
+            <p style="margin-top: 10px;">
+                <a href="https://github.com/techaish-dev" style="color: white;">GitHub</a> |
+                <a href="https://www.linkedin.com/in/techaish-dev/" style="color: white;">LinkedIn</a>
+            </p>
+        </footer>
+    </div>
+</body>
+</html>

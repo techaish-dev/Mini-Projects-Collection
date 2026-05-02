@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "iJuNMplNfJY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ammok\\Desktop\\Hacking\\Projects\\Rent2Own\\VP Project(Final)\\Rent2Own\\Rent2Own_Common\\Rent2Own_Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ammok\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.30\\microsoft.netcore.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\ammok\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.30\\microsoft.windowsdesktop.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\ammok\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.30\\microsoft.aspnetcore.app.ref.6.0.30.nupkg.sha512"
+  ],
+  "logs": []
+}

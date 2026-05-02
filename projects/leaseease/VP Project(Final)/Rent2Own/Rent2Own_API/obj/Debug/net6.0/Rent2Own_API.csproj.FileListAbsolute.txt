@@ -1,0 +1,505 @@
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\appsettings.Development.json
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\appsettings.json
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Rent2Own_API.exe
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Rent2Own_API.deps.json
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Rent2Own_API.runtimeconfig.json
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Rent2Own_API.dll
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Rent2Own_API.pdb
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Rent2Own_Business.dll
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Rent2Own_DataAccess.dll
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Rent2Own_Models.dll
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Rent2Own_Business.pdb
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Rent2Own_DataAccess.pdb
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Rent2Own_Models.pdb
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\obj\Debug\net6.0\Rent2Own_API.csproj.AssemblyReference.cache
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\obj\Debug\net6.0\Rent2Own_API.GeneratedMSBuildEditorConfig.editorconfig
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\obj\Debug\net6.0\Rent2Own_API.AssemblyInfoInputs.cache
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\obj\Debug\net6.0\Rent2Own_API.AssemblyInfo.cs
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\obj\Debug\net6.0\Rent2Own_API.csproj.CoreCompileInputs.cache
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\obj\Debug\net6.0\Rent2Own_API.MvcApplicationPartsAssemblyInfo.cache
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\obj\Debug\net6.0\staticwebassets.build.json
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\obj\Debug\net6.0\staticwebassets.development.json
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\obj\Debug\net6.0\staticwebassets\msbuild.Rent2Own_API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\obj\Debug\net6.0\staticwebassets\msbuild.build.Rent2Own_API.props
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Rent2Own_API.props
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Rent2Own_API.props
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\obj\Debug\net6.0\staticwebassets.pack.json
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\obj\Debug\net6.0\scopedcss\bundle\Rent2Own_API.styles.css
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\obj\Debug\net6.0\Rent2Own_API.csproj.CopyComplete
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\obj\Debug\net6.0\Rent2Own_API.dll
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\obj\Debug\net6.0\refint\Rent2Own_API.dll
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\obj\Debug\net6.0\Rent2Own_API.pdb
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\obj\Debug\net6.0\Rent2Own_API.genruntimeconfig.cache
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\obj\Debug\net6.0\ref\Rent2Own_API.dll
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Rent2Own_Common.dll
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Rent2Own_Common.pdb
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\obj\Debug\net6.0\Rent2Own_API.MvcApplicationPartsAssemblyInfo.cs
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Humanizer.dll
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Stripe.net.dll
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Rent2Own_API.staticwebassets.runtime.json
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\MailKit.dll
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\MimeKit.dll
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\System.Formats.Asn1.dll
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+E:\UNI\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\appsettings.Development.json
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\appsettings.json
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Rent2Own_API.staticwebassets.runtime.json
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Rent2Own_API.exe
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Rent2Own_API.deps.json
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Rent2Own_API.runtimeconfig.json
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Rent2Own_API.dll
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Rent2Own_API.pdb
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Humanizer.dll
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\MailKit.dll
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\MimeKit.dll
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Stripe.net.dll
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\System.Formats.Asn1.dll
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Rent2Own_Business.dll
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Rent2Own_Common.dll
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Rent2Own_DataAccess.dll
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Rent2Own_Models.dll
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Rent2Own_Business.pdb
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Rent2Own_Common.pdb
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Rent2Own_DataAccess.pdb
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Rent2Own_Models.pdb
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\obj\Debug\net6.0\Rent2Own_API.csproj.AssemblyReference.cache
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\obj\Debug\net6.0\Rent2Own_API.GeneratedMSBuildEditorConfig.editorconfig
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\obj\Debug\net6.0\Rent2Own_API.AssemblyInfoInputs.cache
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\obj\Debug\net6.0\Rent2Own_API.AssemblyInfo.cs
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\obj\Debug\net6.0\Rent2Own_API.csproj.CoreCompileInputs.cache
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\obj\Debug\net6.0\Rent2Own_API.MvcApplicationPartsAssemblyInfo.cs
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\obj\Debug\net6.0\Rent2Own_API.MvcApplicationPartsAssemblyInfo.cache
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\obj\Debug\net6.0\staticwebassets.build.json
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\obj\Debug\net6.0\staticwebassets.development.json
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\obj\Debug\net6.0\staticwebassets\msbuild.Rent2Own_API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\obj\Debug\net6.0\staticwebassets\msbuild.build.Rent2Own_API.props
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Rent2Own_API.props
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Rent2Own_API.props
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\obj\Debug\net6.0\staticwebassets.pack.json
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\obj\Debug\net6.0\scopedcss\bundle\Rent2Own_API.styles.css
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\obj\Debug\net6.0\Rent2Own_API.csproj.CopyComplete
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\obj\Debug\net6.0\Rent2Own_API.dll
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\obj\Debug\net6.0\refint\Rent2Own_API.dll
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\obj\Debug\net6.0\Rent2Own_API.pdb
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\obj\Debug\net6.0\Rent2Own_API.genruntimeconfig.cache
+D:\VP Project\Final Project 2\Rent2Own\Rent2Own_API\obj\Debug\net6.0\ref\Rent2Own_API.dll
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\appsettings.Development.json
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\appsettings.json
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Rent2Own_API.staticwebassets.runtime.json
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Rent2Own_API.exe
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Rent2Own_API.deps.json
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Rent2Own_API.runtimeconfig.json
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Rent2Own_API.dll
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Rent2Own_API.pdb
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Humanizer.dll
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\MailKit.dll
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\MimeKit.dll
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Stripe.net.dll
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\System.Formats.Asn1.dll
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Rent2Own_Business.dll
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Rent2Own_Common.dll
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Rent2Own_DataAccess.dll
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Rent2Own_Models.dll
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Rent2Own_Business.pdb
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Rent2Own_Common.pdb
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Rent2Own_DataAccess.pdb
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Rent2Own_Models.pdb
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\obj\Debug\net6.0\Rent2Own_API.csproj.AssemblyReference.cache
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\obj\Debug\net6.0\Rent2Own_API.GeneratedMSBuildEditorConfig.editorconfig
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\obj\Debug\net6.0\Rent2Own_API.AssemblyInfoInputs.cache
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\obj\Debug\net6.0\Rent2Own_API.AssemblyInfo.cs
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\obj\Debug\net6.0\Rent2Own_API.csproj.CoreCompileInputs.cache
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\obj\Debug\net6.0\Rent2Own_API.MvcApplicationPartsAssemblyInfo.cs
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\obj\Debug\net6.0\Rent2Own_API.MvcApplicationPartsAssemblyInfo.cache
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\obj\Debug\net6.0\staticwebassets.build.json
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\obj\Debug\net6.0\staticwebassets.development.json
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\obj\Debug\net6.0\staticwebassets\msbuild.Rent2Own_API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\obj\Debug\net6.0\staticwebassets\msbuild.build.Rent2Own_API.props
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Rent2Own_API.props
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Rent2Own_API.props
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\obj\Debug\net6.0\staticwebassets.pack.json
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\obj\Debug\net6.0\scopedcss\bundle\Rent2Own_API.styles.css
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\obj\Debug\net6.0\Rent2Own_API.csproj.CopyComplete
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\obj\Debug\net6.0\Rent2Own_API.dll
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\obj\Debug\net6.0\refint\Rent2Own_API.dll
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\obj\Debug\net6.0\Rent2Own_API.pdb
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\obj\Debug\net6.0\Rent2Own_API.genruntimeconfig.cache
+E:\UNI\VP Project(Final)\Rent2Own\Rent2Own_API\obj\Debug\net6.0\ref\Rent2Own_API.dll
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\appsettings.Development.json
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\appsettings.json
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Rent2Own_API.staticwebassets.runtime.json
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Rent2Own_API.exe
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Rent2Own_API.deps.json
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Rent2Own_API.runtimeconfig.json
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Rent2Own_API.dll
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Rent2Own_API.pdb
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Humanizer.dll
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\MailKit.dll
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\MimeKit.dll
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Stripe.net.dll
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\System.Formats.Asn1.dll
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Rent2Own_Business.dll
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Rent2Own_Common.dll
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Rent2Own_DataAccess.dll
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Rent2Own_Models.dll
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Rent2Own_Business.pdb
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Rent2Own_Common.pdb
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Rent2Own_DataAccess.pdb
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Rent2Own_Models.pdb
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\obj\Debug\net6.0\Rent2Own_API.csproj.AssemblyReference.cache
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\obj\Debug\net6.0\Rent2Own_API.GeneratedMSBuildEditorConfig.editorconfig
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\obj\Debug\net6.0\Rent2Own_API.AssemblyInfoInputs.cache
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\obj\Debug\net6.0\Rent2Own_API.AssemblyInfo.cs
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\obj\Debug\net6.0\Rent2Own_API.csproj.CoreCompileInputs.cache
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\obj\Debug\net6.0\Rent2Own_API.MvcApplicationPartsAssemblyInfo.cs
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\obj\Debug\net6.0\Rent2Own_API.MvcApplicationPartsAssemblyInfo.cache
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\obj\Debug\net6.0\staticwebassets.build.json
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\obj\Debug\net6.0\staticwebassets.development.json
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\obj\Debug\net6.0\staticwebassets\msbuild.Rent2Own_API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\obj\Debug\net6.0\staticwebassets\msbuild.build.Rent2Own_API.props
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Rent2Own_API.props
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Rent2Own_API.props
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\obj\Debug\net6.0\staticwebassets.pack.json
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\obj\Debug\net6.0\scopedcss\bundle\Rent2Own_API.styles.css
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\obj\Debug\net6.0\Rent2Own_API.csproj.CopyComplete
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\obj\Debug\net6.0\Rent2Own_API.dll
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\obj\Debug\net6.0\refint\Rent2Own_API.dll
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\obj\Debug\net6.0\Rent2Own_API.pdb
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\obj\Debug\net6.0\Rent2Own_API.genruntimeconfig.cache
+D:\sem 5\Visual Programming\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\obj\Debug\net6.0\ref\Rent2Own_API.dll
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\appsettings.Development.json
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\appsettings.json
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Rent2Own_API.staticwebassets.runtime.json
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Rent2Own_API.exe
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Rent2Own_API.deps.json
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Rent2Own_API.runtimeconfig.json
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Rent2Own_API.dll
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Rent2Own_API.pdb
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Humanizer.dll
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\MailKit.dll
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\MimeKit.dll
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Stripe.net.dll
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\System.Formats.Asn1.dll
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Rent2Own_Business.dll
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Rent2Own_Common.dll
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Rent2Own_DataAccess.dll
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Rent2Own_Models.dll
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Rent2Own_Business.pdb
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Rent2Own_Common.pdb
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Rent2Own_DataAccess.pdb
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\bin\Debug\net6.0\Rent2Own_Models.pdb
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\obj\Debug\net6.0\Rent2Own_API.csproj.AssemblyReference.cache
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\obj\Debug\net6.0\Rent2Own_API.GeneratedMSBuildEditorConfig.editorconfig
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\obj\Debug\net6.0\Rent2Own_API.AssemblyInfoInputs.cache
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\obj\Debug\net6.0\Rent2Own_API.AssemblyInfo.cs
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\obj\Debug\net6.0\Rent2Own_API.csproj.CoreCompileInputs.cache
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\obj\Debug\net6.0\Rent2Own_API.MvcApplicationPartsAssemblyInfo.cs
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\obj\Debug\net6.0\Rent2Own_API.MvcApplicationPartsAssemblyInfo.cache
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\obj\Debug\net6.0\staticwebassets.build.json
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\obj\Debug\net6.0\staticwebassets.development.json
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\obj\Debug\net6.0\staticwebassets\msbuild.Rent2Own_API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\obj\Debug\net6.0\staticwebassets\msbuild.build.Rent2Own_API.props
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Rent2Own_API.props
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Rent2Own_API.props
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\obj\Debug\net6.0\staticwebassets.pack.json
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\obj\Debug\net6.0\scopedcss\bundle\Rent2Own_API.styles.css
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\obj\Debug\net6.0\Rent2Own_API.csproj.CopyComplete
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\obj\Debug\net6.0\Rent2Own_API.dll
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\obj\Debug\net6.0\refint\Rent2Own_API.dll
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\obj\Debug\net6.0\Rent2Own_API.pdb
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\obj\Debug\net6.0\Rent2Own_API.genruntimeconfig.cache
+D:\sem 5\VP\Final Project\VP Project(Final)\Rent2Own\Rent2Own_API\obj\Debug\net6.0\ref\Rent2Own_API.dll

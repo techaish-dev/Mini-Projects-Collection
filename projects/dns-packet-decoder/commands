@@ -1,0 +1,8 @@
+﻿tshark -r gnome.pcap -Y dns.id==0x1337 -T fields -e dns.resp.len | head -n 20
+scapy
+
+python3 decode.py
+
+aircrack-ng file 
+
+tshark -r data.pcap
